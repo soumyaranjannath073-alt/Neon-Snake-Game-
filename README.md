@@ -8,6 +8,3 @@ A simple Snake Game made using HTML, CSS and JavaScript.
 
 ## How to Play
 Open index.html in any browser.
-
-## Live Demo
-(baad me GitHub pages se link bana denge)
